@@ -1,5 +1,5 @@
 # generated from manifests external_dependencies
 factur-x
-lxml
+lxml==4.6.1
 pyyaml
 xmlschema
